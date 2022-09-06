@@ -68,3 +68,6 @@
 
 •	The user has the advantage of entering any text message and checking model predictions on SMS.
   
+# Data set
+
+Link for data set used -> https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection/
